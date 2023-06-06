@@ -2,7 +2,8 @@ Custom Video Player
 ______________________________________________________________________________________________
 Custom video player using the HTML5 video element and it's JavaScript API with a custom design
 
-Project Specifications
+Project Specifications:
+
 Display custom video player styled with CSS
 Play/pause
 Stop
